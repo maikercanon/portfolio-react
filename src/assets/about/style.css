@@ -1,0 +1,11 @@
+#video-about {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  /* ← Remove this */
+}
+#div-about{
+    background-color: black;
+    
+}
