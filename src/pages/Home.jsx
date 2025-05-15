@@ -1,3 +1,4 @@
+import imageMaiker from '../../public/IMG_5774.JPG'
 import Footer from '../components/Footer'
 import NavBar from '../components/NavBar'
 const Home = () => {
@@ -11,7 +12,7 @@ const Home = () => {
                 </p>
               </div>
               <div className='contentImage'>
-                    <img src='src/assets/IMG_5774.JPG'/>
+                    <img src={imageMaiker}/>
               </div>
       </div>
       <Footer/>

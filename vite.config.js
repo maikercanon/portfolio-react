@@ -7,4 +7,5 @@ const repoName = 'portfolio-react'
 export default defineConfig({
   plugins: [react(), tailwindcss(),],
   base: `/${repoName}`,
+   assetsInclude: ['**/*.JPG', '**/*.jpg'],
 })

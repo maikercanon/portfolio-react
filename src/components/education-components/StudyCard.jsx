@@ -1,4 +1,5 @@
 import { motion } from "motion/react";
+import imageNova from '../../../public/nova3.png';
 const studies = [
   {
     title: "Software Engineering",
@@ -32,7 +33,7 @@ const StudyCard = () => {
             key={index}
             className="bg-black b-white rounded-2xl shadow-md p-6 hover:shadow-xl transition"
           >
-            <img src="src/assets/nova3.png"/>
+            <img src={imageNova}/>
             <h3 className="text-5xl font-semibold text-[#C0C0C0]">{study.title}</h3>
             <p className="text-9xl text-white  mt-1">{study.institution}</p>
             <p className="text-xs text-white mb-2">{study.year}</p>

@@ -1,5 +1,5 @@
-import imageCamara from "../assets/camara_comercio_real.png";
-import imagePortfolio from "../assets/portfolio.jpg";
+import imageCamara from "../../public/camara_comercio_real.png";
+import imagePortfolio from "../../public/portfolio.jpg";
 import Job from '../components/experience/Job';
 import Footer from '../components/Footer';
 import NavBar from '../components/NavBar';

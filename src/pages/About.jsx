@@ -1,3 +1,4 @@
+import videoGirando from '../../public/planeta_girando.mp4'
 import '../assets/about/style.css'
 import Footer from '../components/Footer'
 import NavBar from '../components/NavBar'
@@ -17,7 +18,7 @@ const About = () => {
           playsInline
           className="w-full h-full object-cover"
         >
-          <source src="videos/planeta_girando.mp4" type="video/mp4" />
+          <source src={videoGirando} type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>
