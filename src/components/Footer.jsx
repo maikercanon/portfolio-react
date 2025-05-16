@@ -9,7 +9,10 @@ const Footer = () => {
           </a>
           . All Rights Reserved.
           <hr/>
-          E-mail: Maikersito200109@gmail.com - Tel: 3177530836
+          E-mail: Maikersito200109@gmail.com - Tel: 3177530836 - 
+          <a href="https://www.linkedin.com/in/maiker-ca%C3%B1on-1620b828a/" className=" bg-blue-900 rounded-2xl p-2 hover:underline">
+            Linkedin
+          </a>
         </span>
         {/* <ul class="flex flex-wrap items-center mt-3 text-3xl font-medium text-gray-500 dark:text-gray-900 sm:mt-0">
         <li>
