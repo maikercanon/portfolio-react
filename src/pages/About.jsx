@@ -27,7 +27,7 @@ const About = () => {
           <h2 className="text-white text-3xl font-bold  mx-auto max-w-6xl bg-black/50 p-4 rounded-lg">
             I'm a enthusiastic English learner.
             <br/>
-            My life doesn't have been easy but i love talking with people, i love helping others and i'm always looking for solutions.
+            My life has not been easy but i love talking with people, i love helping others and i'm always looking for solutions.
             <br/>
             <br/>
           </h2>
